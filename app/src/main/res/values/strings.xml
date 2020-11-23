@@ -3,4 +3,5 @@
     <string name="roll">Lanzar</string>
     <string name="tirar">Tirando</string>
     <string name="otro">Otro</string>
+    <string name="todo">TODO</string>
 </resources>
